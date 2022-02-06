@@ -8,8 +8,8 @@ What Is ToSProject? Its A Discord Run Using discord.py That Try To Make Discord 
 # About The ToSProject
 ToSProject is make by me(k3yl0ck#9250)
 # Special
-Whois
-Moderator
-Wikipedia
+Whois,
+Moderator,
+Wikipedia,
 And More!
 # Coming Soon
