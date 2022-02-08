@@ -13,3 +13,5 @@ Moderator,
 Wikipedia,
 And More!
 # Coming Soon
+# Buy Me A Coffee
+<img src='https://media.discordapp.net/attachments/940489311642611752/940489359952584774/img.buymeacoffee.com.jpeg'>
